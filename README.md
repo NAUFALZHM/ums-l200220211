@@ -1,3 +1,4 @@
+![logo](https://github.com/NAUFALZULHM/Customize-Github/blob/main/Github%20Banner%20Profile)
 <h1 align="center">Hi 👋, I'm Naufal Zul</h1>
 <h3 align="center">A passionate newbie developer from Indonesia</h3>
 
