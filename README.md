@@ -1,6 +1,6 @@
 ![logo](https://github.com/NAUFALZULHM/Customize-Github/blob/main/Github%20Banner%20Profile)
 <h1 align="center">Hi 👋, I'm Naufal Zul</h1>
-<h3 align="center">A passionate newbie developer from Indonesia</h3>
+<h3 align="center">A passionate front-end developer from Indonesia</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
@@ -42,8 +42,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a> 
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-    </a> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
+    </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a> 
