@@ -64,8 +64,8 @@
     </a> 
 </p>
 <hr>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=naufalzulhm&show_icons=true&locale=en&layout=compact" alt="naufalzulhm" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=naufalzulhm&show_icons=true&locale=en" alt="naufalzulhm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naufalzulhm&show_icons=true&locale=en&layout=compact" alt="naufalzulhm" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=naufalzulhm&show_icons=true&locale=en" alt="naufalzulhm" /></p>
 <p align="center"><img  style="display: block; margin: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalzulhm&" alt="naufalzulhm" /></p>
 
 
