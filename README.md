@@ -63,10 +63,12 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a> 
 </p>
+<p align="center">=========================================================================================</p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalzulhm&" alt="naufalzulhm" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=naufalzulhm&show_icons=true&locale=en" alt="naufalzulhm" /></p>
+<br><br><br><br><br><br><hr>
+<p align="center">
+    <img style="display: block; margin: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=naufalzulhm&show_icons=true&locale=en&layout=compact" alt="naufalzulhm" />
+</p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naufalzulhm&show_icons=true&locale=en&layout=compact" alt="naufalzulhm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naufalzulhm&show_icons=true&locale=en" alt="naufalzulhm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalzulhm&" alt="naufalzulhm" /></p>
