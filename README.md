@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/ums-l200220211/Customize-Github/blob/main/coding.gif" width="600"/>
+    <img src="https://github.com/NAUFALZULHM/Customize-Github/blob/main/coding.gif" width="600"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Naufal Zul</h1>
