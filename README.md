@@ -84,7 +84,7 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ums-l200220211&show_icons=true&locale=en&layout=compact&theme=radical" alt="ums-l200220211" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=nums-l200220211&show_icons=true&locale=en&theme=radical" alt="ums-l200220211" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ums-l200220211&show_icons=true&locale=en&theme=radical" alt="ums-l200220211" height="165"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ums-l200220211&theme=radical" alt="ums-l200220211" height="165"/>
 </p>
 
