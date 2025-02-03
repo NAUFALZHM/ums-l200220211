@@ -6,15 +6,15 @@
 <div align="center">
   <img height="2" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 </div>
-<h3 align="center">A passionate Web Developer from Indonesia</h3>
+<h3 align="center">A passionate AI Engineer Enthusiast & Web Developer from Indonesia</h3>
 <hr>
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-- 🌱 I’m currently learning **Laravel, Kelas Fullstack**
-- 💼 I'm open for collaborations in front-end development
-- 📫 Reach me at **naufalmaulanakusna@gmail.com**
-- ⚡ Fun fact: **I love playing with cats!**
+- 🌱 I’m currently learning **Laravel, Fullstack Development, and AI/ML**
+- 🎽 I'm open for collaborations in front-end development & AI projects
+- 💎 Reach me at **naufalmaulanakusna@gmail.com**
+- ⚡ Fun fact: **I love playing with cats & exploring AI innovations!**
 
 <br>
 
@@ -47,9 +47,27 @@
     <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
     </a> 
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+    <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    </a>
+    <a href="https://www.php.net" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
     </a> 
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    </a> 
+    <a href="https://www.tensorflow.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="40" height="40"/>
+    </a>
+    <a href="https://pytorch.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="40" height="40"/>
+    </a>
+    <a href="https://www.sqlite.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
+    </a>
     <a href="https://www.java.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </a> 
@@ -58,21 +76,6 @@
     </a>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a> 
-    <a href="https://www.php.net" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-    </a> 
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a> 
-    <a href="https://www.sqlite.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
     </a> 
 </p>
 <hr>
@@ -87,4 +90,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ums-l200220211&show_icons=true&locale=en&theme=radical" alt="ums-l200220211" height="165"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ums-l200220211&theme=radical" alt="ums-l200220211" height="165"/>
 </p>
-
