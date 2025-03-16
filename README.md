@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Laravel, Fullstack Development, and AI/ML**
 - 🎽 I'm open for collaborations in front-end development & AI projects
 - 💎 Reach me at **naufalmaulanakusna@gmail.com**
-- ⚡ Fun fact: **I love playing with cats & exploring AI innovations!**
+- ⚡ Fun fact: **I love playing with cats, workout and exploring AI innovations!**
 
 <br>
 
