@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/NAUFALZULHM/Customize-Github/blob/main/coding.gif" width="600"/>
+    <img src="https://github.com/NAUFALZHM/Customize-Github/blob/main/coding.gif" width="600"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Naufal Zul</h1>
@@ -81,12 +81,12 @@
 <hr>
 
 <div align="center">
-  <img src="https://github.com/NAUFALZULHM/NAUFALZULHM/blob/output/github-snake-dark.svg" alt="snake gif">
+  <img src="https://github.com/NAUFALZHM/NAUFALZHM/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NAUFALZULHM&show_icons=true&locale=en&layout=compact&theme=radical" alt="NAUFALZULHM" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=NAUFALZULHM&show_icons=true&locale=en&theme=radical" alt="NAUFALZULHM" height="165"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAUFALZULHM&theme=radical" alt="NAUFALZULHM" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NAUFALZHM&show_icons=true&locale=en&layout=compact&theme=radical" alt="NAUFALZHM" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=NAUFALZHM&show_icons=true&locale=en&theme=radical" alt="NAUFALZHM" height="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAUFALZHM&theme=radical" alt="NAUFALZHM" height="165"/>
 </p>
