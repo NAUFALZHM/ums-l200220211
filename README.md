@@ -81,12 +81,12 @@
 <hr>
 
 <div align="center">
-  <img src="https://github.com/ums-l200220211/ums-l200220211/blob/output/github-snake-dark.svg" alt="snake gif">
+  <img src="https://github.com/NAUFALZULHM/NAUFALZULHM/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ums-l200220211&show_icons=true&locale=en&layout=compact&theme=radical" alt="ums-l200220211" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=ums-l200220211&show_icons=true&locale=en&theme=radical" alt="ums-l200220211" height="165"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ums-l200220211&theme=radical" alt="ums-l200220211" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NAUFALZULHM&show_icons=true&locale=en&layout=compact&theme=radical" alt="NAUFALZULHM" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=NAUFALZULHM&show_icons=true&locale=en&theme=radical" alt="NAUFALZULHM" height="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAUFALZULHM&theme=radical" alt="NAUFALZULHM" height="165"/>
 </p>
